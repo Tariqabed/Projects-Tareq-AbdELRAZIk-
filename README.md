@@ -17,7 +17,11 @@ Machine learning :
 
 For the machine learning project, I recommend using Google Colab, as I built it there, and all the necessary libraries are already installed.
 
-Note: The dataset for the machine learning project is available on GitHub.
+Note: 
+
+1) The dataset for the machine learning project is available on GitHub.
+2) I droped a lot of the features because i have been asked to.
+
 
 
 Sudoku Solver :
