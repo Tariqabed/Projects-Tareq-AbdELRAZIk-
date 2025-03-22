@@ -34,8 +34,13 @@ Sudoku Solver :
     tkinter & customtkinter: A standard GUI in Python for creating the application interface.
   
     pygame: Typically used for creating games but Used only for sounds.
+    
+    Note : In Sudoku Solver , Comments have been written by ChatGpt Due to his accurate explantion , 
+    and using vocbulary reflects what exactly the code is doing , yet the comments have been reviewed and kept due to there accuarcy.
+    in addition , the report only contains how the Solving alghorthim work , Since its the complicated part , Still i am happy to write another 
+    report with regards to the GUI if its intersting. 
 
-Note: it won't work without customtkinter and pygame installed , therefore these are the commands for runing them 
+Warning: it won't work without customtkinter and pygame Downloaded , these are the commands for runing them 
   
      pip install pygame
    
